@@ -23,16 +23,6 @@ This project presents a full downstream analysis pipeline of the **PBMC3k** sing
 
 ---
 
-## 📁 Repository Structure
-
-| Folder       | Description                           |
-|--------------|---------------------------------------|
-| `data/`      | Contains output files and results     |
-| `figures/`   | Plots: UMAP, heatmap, QC, GO analysis |
-| `scripts/`   | R scripts used for full pipeline      |
-
----
-
 ## 📚 Dataset Info
 
 - **Source**: `TENxPBMCData::pbmc3k` (Bioconductor)
